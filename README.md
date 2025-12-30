@@ -38,3 +38,4 @@ Useful for e-commerce and content platforms
 
 Output:
 
+<img width="1732" height="400" alt="Image" src="https://github.com/user-attachments/assets/ec60e515-39b2-4623-ade9-761a7c221dc9" />
